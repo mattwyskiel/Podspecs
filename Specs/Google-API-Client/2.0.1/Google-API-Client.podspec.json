@@ -18,7 +18,7 @@
     "osx": "10.7"
   },
   "dependencies": {
-    "GTMHTTPFetcher": [
+    "gtm-http-fetcher": [
 
     ],
     "gtm-oauth2": [
